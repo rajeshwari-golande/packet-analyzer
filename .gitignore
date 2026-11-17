@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Outputs
+output.pcap
+output_test.pcap
+filtered.pcap
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Legacy C++ build artifacts
+legacy/cpp/build/
